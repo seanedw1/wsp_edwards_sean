@@ -1,0 +1,20 @@
+body{
+	background-color: black;
+}
+
+section{
+	background-color: white;
+	height: 400px;
+	width: 1000px;
+	margin: 0 auto;
+	overflow: auto;
+}
+
+article{
+	background-color: grey;
+	margin: 0 auto;
+	width: 900px;
+	height: 350px;
+
+
+}
