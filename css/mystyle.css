@@ -2,7 +2,19 @@ body{
 	background-color: black;
 }
 
+article{
+	background-color: white;
+}
+
 section{
+	background-color: green;
+	width: 1000px;
+	margin: 0 auto;
+	overflow: auto;
+}
+
+
+.box2{
 	background-color: white;
 	height: 700px;
 	width: 1000px;
@@ -11,13 +23,25 @@ section{
 }
 
 
+#feat{
+	border: 6px solid orange;
+	background-color: white;
+	height: 700px;
+	width: 1000px;
+	margin: 0 auto;
+	overflow: auto;
+}
+
 
 header{
+	border-radius: 15px;
 margin-bottom: 50px;
+background-color: red;
+overflow: auto;
 
 }
 
-article{
+.box{
 	background-color:#BDBDBD;
 	margin: 0 auto;
 	width: 900px;
@@ -25,7 +49,24 @@ article{
 overflow: auto;
 }
 
+#aboutme{
+	position: relative;
+	left: 375px;
+	width: 400px;
+	height: 300px;
+
+}
+
 img{
+	margin-left: 40px;
+	display: inline;
+	border: 1px solid black;
+	max-width: 100%
+
+}
+
+
+.cpic{
 	display: block;
 	margin-left:auto;
 	margin-right: auto;
