@@ -2,6 +2,58 @@ body{
 	background-color: black;
 }
 
+
+/*======== header ==========*/
+
+header{
+	border-radius: 15px;
+margin-bottom: 50px;
+background-color: #F2EDD8;
+overflow: auto;
+}
+
+nav a {
+    text-align: center;
+    text-decoration: none;
+    color: #7B8D8E;
+    font-size: 1.250em;
+}
+
+nav ul {
+    padding-top: 14px;
+    padding-right: 30px;
+    float: right;
+    list-style-type: none;
+}
+
+li{
+	display: inline;
+}
+
+.seperate {
+    padding-right: 5px;
+    border-right: 3px solid white;
+}
+
+/*======== body ==========*/
+
+h1{
+	text-align: center;
+}
+
+h3{
+	text-align: center;
+}
+
+img{
+	margin-left: 40px;
+	display: inline;
+	border: 1px solid black;
+	max-width: 100%
+}
+
+/*======== content ==========*/
+
 article{
 	background-color: white;
 }
@@ -11,6 +63,33 @@ section{
 	width: 1000px;
 	margin: 0 auto;
 	overflow: auto;
+}
+
+#aboutme{
+	position: relative;
+	left: 375px;
+	width: 400px;
+	height: 300px;
+	background-color: #F2EDD8;
+
+}
+
+
+.cpic{
+	display: block;
+	margin-left:auto;
+	margin-right: auto;
+	margin-top:75px;
+	border: 1px solid black;
+}
+
+
+.box{
+	background-color:#BDBDBD;
+	margin: 0 auto;
+	width: 900px;
+	height: 450px;
+overflow: auto;
 }
 
 
@@ -33,73 +112,14 @@ section{
 }
 
 
-header{
-	border-radius: 15px;
-margin-bottom: 50px;
-background-color: #F2EDD8;
-overflow: auto;
-
-}
-
-.box{
-	background-color:#BDBDBD;
-	margin: 0 auto;
-	width: 900px;
-	height: 450px;
-overflow: auto;
-}
-
-#aboutme{
-	position: relative;
-	left: 375px;
-	width: 400px;
-	height: 300px;
-	background-color: #F2EDD8;
-
-}
-
-img{
-	margin-left: 40px;
-	display: inline;
-	border: 1px solid black;
-	max-width: 100%
-
-}
+/*======== footer ==========*/
 
 
-.cpic{
-	display: block;
-	margin-left:auto;
-	margin-right: auto;
-	margin-top:75px;
-	border: 1px solid black;
-}
 
-h1{
-	text-align: center;
-}
 
-h3{
-	text-align: center;
-}
-.seperate {
-    padding-right: 5px;
-    border-right: 3px solid white;
-}
-nav a {
-    text-align: center;
-    text-decoration: none;
-    color: #7B8D8E;
-    font-size: 1.250em;
-}
 
-nav ul {
-    padding-top: 14px;
-    padding-right: 30px;
-    float: right;
-    list-style-type: none;
-}
 
-li{
-	display: inline;
-}
+
+
+
+
