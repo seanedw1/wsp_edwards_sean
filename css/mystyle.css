@@ -16,7 +16,7 @@ section{
 
 .box2{
 	background-color: white;
-	height: 700px;
+	height: 800px;
 	width: 1000px;
 	margin: 0 auto;
 	overflow: auto;
@@ -26,7 +26,7 @@ section{
 #feat{
 	border: 6px solid orange;
 	background-color: white;
-	height: 700px;
+	height: 800px;
 	width: 1000px;
 	margin: 0 auto;
 	overflow: auto;
@@ -36,7 +36,7 @@ section{
 header{
 	border-radius: 15px;
 margin-bottom: 50px;
-background-color: red;
+background-color: #F2EDD8;
 overflow: auto;
 
 }
@@ -83,12 +83,12 @@ h3{
 }
 .seperate {
     padding-right: 5px;
-    border-right: 1px solid white;
+    border-right: 2px solid white;
 }
 nav a {
     text-align: center;
     text-decoration: none;
-    color: white;
+    color: #7B8D8E;
     font-size: 1.250em;
 }
 
