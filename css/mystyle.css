@@ -1,16 +1,100 @@
-body{
-	background-color: black;
+html,body{
+	background-color: #000000;
+	padding: 0;
+	margin: 0;
+
 }
 
 
-/*======== header ==========*/
+/*======== header ========== */
+
+#bottom{
+	padding-top: 5%;
+	margin-left: 50%;
+	padding-bottom: 3%;
+		margin-top: 28%;
+
+	text-decoration: underline;
+	font-size: 1em;
+	color: white;
+
+
+
+}
+
+ section {
+	max-width: 960px;
+	margin: 0 auto;
+	padding: 30px;
+	background: #222222;
+}
+section::after {
+	content: "";
+	display: table;
+	clear: both;
+	visibility: hidden;
+}
 
 header{
-	border-radius: 15px;
-margin-bottom: 50px;
-background-color: #F2EDD8;
-overflow: auto;
+	margin-bottom: 50px;
+	background-color: #F2EDD8;
+	overflow: auto;
+	width:100%;
 }
+
+#fimg{
+	margin-right: 10px;
+	float: left;
+}
+
+article { 
+	margin-bottom:10px;
+	padding: 30px;
+	background: white;
+}
+
+#about h3{
+	margin-bottom: 20px;
+
+}
+
+#aboutme{ 
+overflow: auto;
+	width: 500px;
+	height: 300px;
+	background-color: #F2EDD8;
+}
+
+
+
+#follow{
+	text-align: center;
+	margin-top: 25px;
+	overflow: auto;
+}
+
+#follow img{
+	margin-left: 35px;
+border: none;
+margin-right: 5px;
+}
+
+
+
+#feat{
+	border: 6px solid orange;
+	margin-bottom:10px;
+	padding: 30px;
+	background: white;
+}
+
+
+img { 
+	max-width: 100%; 
+	border: 1px solid black;
+}
+
+
 
 nav a {
     text-align: center;
@@ -35,7 +119,51 @@ li{
     border-right: 3px solid white;
 }
 
+
 /*======== body ==========*/
+
+#wrapper{
+width: 240px;
+overflow: auto;
+}
+
+#box{
+	margin-right: 5px;
+	float: left;
+	background-color: #7fbfc9;
+	width: 55px;
+	height: 50px;
+	border: 1px solid black;
+
+}
+
+#box2{
+		margin-right: 5px;
+	float: left;
+	background-color: #fcffff;
+	width: 55px;
+	height: 50px;
+	border: 1px solid black;
+
+}
+#box3{
+	margin-right: 5px;
+	float: left;
+	background-color: #f26c4f;
+	width: 55px;
+	height: 50px;
+	border: 1px solid black;
+
+}
+
+#box4{
+	float: left;
+	background-color: #96b3bb;
+	width: 58px;
+	height: 50px;
+	border: 1px solid black;
+
+}
 
 h1{
 	text-align: center;
@@ -45,14 +173,42 @@ h3{
 	text-align: center;
 }
 
+h4{
+	margin: 10px 40px 5px 50px;
+	color: #BABABA;
+	font-size: 2em;
+}
+
+
+/*
+
+*/
+
+/*
+
+
+
+p{
+margin: 0 40px 40px 50px;
+}
+
 img{
+	float: left;
 	margin-left: 40px;
-	display: inline;
 	border: 1px solid black;
 	max-width: 100%
 }
 
-/*======== content ==========*/
+.cpic{
+	display: block;
+	margin-left:auto;
+	margin-right: auto;
+	margin-top:75px;
+	border: 1px solid black;
+}
+*/
+
+/*======== content ==========
 
 article{
 	background-color: white;
@@ -63,34 +219,15 @@ section{
 	width: 1000px;
 	margin: 0 auto;
 	overflow: auto;
-}
-
-#aboutme{
-	position: relative;
-	left: 375px;
-	width: 400px;
-	height: 300px;
-	background-color: #F2EDD8;
-
+	padding: 30px;
 }
 
 
-.cpic{
-	display: block;
-	margin-left:auto;
-	margin-right: auto;
-	margin-top:75px;
-	border: 1px solid black;
-}
+*/
 
 
-.box{
-	background-color:#BDBDBD;
-	margin: 0 auto;
-	width: 900px;
-	height: 450px;
-overflow: auto;
-}
+/*
+
 
 
 .box2{
@@ -102,14 +239,8 @@ overflow: auto;
 }
 
 
-#feat{
-	border: 6px solid orange;
-	background-color: white;
-	height: 800px;
-	width: 1000px;
-	margin: 0 auto;
-	overflow: auto;
-}
+
+*/
 
 
 /*======== footer ==========*/
