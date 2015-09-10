@@ -101,6 +101,16 @@ font-size: 3em;
 	margin-bottom: 20px;
 }
 
+#learn{
+	margin-top: 20px;
+	text-transform: uppercase;
+	display: inline-block;
+	background-color: #f26c4f;
+	padding: 1% 2%;
+	border-radius: 5px;
+	color: white;
+}
+
 
 
 img { 
@@ -194,68 +204,11 @@ h4{
 	font-size: 2em;
 }
 
-
-/*
-
-*/
-
-/*
+/*======== content ==========*/
 
 
 
-p{
-margin: 0 40px 40px 50px;
-}
 
-img{
-	float: left;
-	margin-left: 40px;
-	border: 1px solid black;
-	max-width: 100%
-}
-
-.cpic{
-	display: block;
-	margin-left:auto;
-	margin-right: auto;
-	margin-top:75px;
-	border: 1px solid black;
-}
-*/
-
-/*======== content ==========
-
-article{
-	background-color: white;
-}
-
-section{
-	background-color: #7B8D8E;
-	width: 1000px;
-	margin: 0 auto;
-	overflow: auto;
-	padding: 30px;
-}
-
-
-*/
-
-
-/*
-
-
-
-.box2{
-	background-color: white;
-	height: 800px;
-	width: 1000px;
-	margin: 0 auto;
-	overflow: auto;
-}
-
-
-
-*/
 
 
 /*======== footer ==========*/
