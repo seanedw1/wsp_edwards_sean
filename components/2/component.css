@@ -1,4 +1,18 @@
 /* Component Stylesheet 
 ============================================================
 ============================================================*/
+header{
+	border: 1px solid green;
+	height: 100px;
+}
 
+ul{
+	border: 2px solid red;
+	list-style-type: none;
+}
+
+li{
+	margin-right: 80px;
+	display: inline;
+	border: 3px solid black;
+}

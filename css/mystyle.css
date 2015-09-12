@@ -111,7 +111,10 @@ font-size: 3em;
 	color: white;
 }
 
-
+#learn:hover{
+	background-color: red;
+	color: black;	
+}
 
 img { 
 	max-width: 100%; 

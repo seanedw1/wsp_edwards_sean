@@ -1,7 +1,9 @@
 /* Component Stylesheet 
 ============================================================
 ============================================================*/
-
+body{
+	font-family: 'Raleway', sans-serif;
+}
 
 header{
 	padding-top: 20px;
@@ -19,7 +21,7 @@ section{
 
 article{
 	height: 100%;
-	width: 70%;
+	width: 80%;
 	border: 1px solid green;
 	margin: 0 auto;
 
@@ -31,6 +33,7 @@ ul{
 }
 
 li{
+	font-size: 10pt;
 	margin-right: 5px;
 	color: #fff;
 	display: inline;
@@ -40,12 +43,12 @@ h1{
 	margin-top: 15%;
 	text-transform: uppercase;
 	color: white;
-	font-size: 72px;
+	font-size: 120pt;
 }
 
 h3{
 	color: white;
-	font-size: 60px;
+	font-size: 48pt;
 }
 
 p{
