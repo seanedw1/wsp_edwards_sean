@@ -3,7 +3,7 @@
 ============================================================*/
 
 section{
-	height: 100px;
+	height: 150px;
 	background-color: #272727;
 	text-align: center;
 	color: #969696;
@@ -18,16 +18,17 @@ a{
 footer{
 	color:#fefff6;
 background-color: #5b9638;
-height: 200px;
+height: 300px;
 }
 
 ul{
 	clear: both;
-
+margin: bottom;
 }
 
 li{
-	margin-bottom: 200px;
+	margin-right: 10px;
+	margin-bottom: 400px;
 	display: inline;
 }
 
@@ -36,13 +37,27 @@ li{
 	margin-bottom: 10px;
 }
 
+#flist li{
+	text-transform: uppercase;
+font-size: 1em;
+}
+
+#flist li a{
+		color: #f3f3f3;
+
+}
+
 #up{
 	margin-top:15px;
 	float: right;
 	display: block;
-	margin-right: 15px;
+	margin-right: 60px;
 }
 
+div{
+	clear: both;
+margin: 0 auto;
+}
 
 .border{
 	padding-left: 5px;
@@ -50,6 +65,14 @@ border-left:1px solid #fefff6;
 
 }
 
-h2,p{
+img{
+}
+
+h2{
+	text-align: center;
+	text-transform: uppercase;
+}
+
+p{
 	text-align: center;
 }
