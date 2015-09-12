@@ -2,3 +2,37 @@
 ============================================================
 ============================================================*/
 
+body{
+background-color: black;
+}
+
+section{
+	background-color: white;
+	width:80%;
+	height: 1000px;
+	border: 1px solid black;
+	margin: 0 auto;
+}
+
+article{
+	margin-left: 20px;
+	margin-right: 5px;
+	overflow: auto;
+	float: left;
+	margin-top: 25px;
+	width:200px;
+	height: 400px;
+	border:1px solid black;
+}
+
+img{
+	max-width: 100%;
+	border: 1px solid black;
+}
+
+hr{
+	width: 115px;
+}
+h2{
+	text-align: center;
+}
