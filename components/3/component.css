@@ -3,7 +3,7 @@
 ============================================================*/
 
 section{
-	height: 150px;
+	height: 180px;
 	background-color: #272727;
 	text-align: center;
 	color: #969696;
@@ -46,6 +46,14 @@ font-size: 1em;
 		color: #f3f3f3;
 
 }
+
+#slist{
+	padding-bottom: 20px;
+}
+
+#slist li{
+}
+
 
 #up{
 	margin-top:15px;
