@@ -2,13 +2,31 @@
 ============================================================
 ============================================================*/
 aside{
+  position:relative;
 	width: 160px;
 	height: 600px;
-	border: 1px solid red;
+	border: 1px solid black;
 	margin: 0 auto;
 }
 
 button{
+  color:#ffffff;
+  background-color: #3d506e;
+  border-radius: 5px;
 	display: block;
 	margin:0 auto;
+}
+
+div{
+  line-height: 20px;
+      text-align: center;
+    height: 35px;
+background:#2875e5;
+      position: absolute;
+  top: -3px;
+  right: -3px;
+    -ms-transform: rotate(7deg); /* IE 9 */
+    -webkit-transform: rotate(25deg); /* Chrome, Safari, Opera */
+    transform: rotate(25deg);
+        color:white;
 }

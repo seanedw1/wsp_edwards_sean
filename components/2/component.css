@@ -3,16 +3,33 @@
 ============================================================*/
 header{
 	border: 1px solid green;
-	height: 100px;
+	height: 120px;
+    overflow: auto;
 }
 
 ul{
-	border: 2px solid red;
 	list-style-type: none;
 }
 
 li{
+    height:120px;
 	margin-right: 80px;
-	display: inline;
-	border: 3px solid black;
+	display: inline;}
+
+
+
+img{
+}
+
+
+a{
+    
+}
+
+
+
+
+.seperate{
+    padding: 5px;
+    border-right: 1px solid red;
 }
