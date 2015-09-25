@@ -22,7 +22,6 @@ section{
 article{
 	height: 100%;
 	width: 80%;
-	border: 1px solid green;
 	margin: 0 auto;
 
 }
@@ -40,19 +39,26 @@ li{
 }
 
 h1{
-	margin-top: 15%;
-	text-transform: uppercase;
+	padding-top: 250px;
+	display: block;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 800;
 	color: white;
-	font-size: 120pt;
+	font-size: 80pt;
 }
 
 h3{
+	font-family: 'Raleway', sans-serif;
+	font-weight: 600;
 	color: white;
-	font-size: 48pt;
+	font-size: 30pt;
 }
 
 p{
+	margin-bottom: 15px;
+	font-family: 'Open Sans', sans-serif;
 	font-style: italic;
+	font-weight: 300;
 	color: white;
 }
 
