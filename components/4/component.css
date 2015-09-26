@@ -22,6 +22,7 @@ button{
 h3{
   font-family: 'Cedarville Cursive', cursive;
   text-align: center;
+  font-size: 2em;
 }
 
 h3 span{
@@ -45,9 +46,7 @@ h3 span{
 
 
 #order{
-  position: relative;
 margin: 0 auto;
-border:1px solid red;
 }
 
 img{
