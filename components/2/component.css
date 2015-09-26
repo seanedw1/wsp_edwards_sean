@@ -3,33 +3,43 @@
 ============================================================*/
 header{
 	border: 1px solid green;
-	height: 120px;
     overflow: auto;
+}
+
+nav{
+	max-width: 100%;
 }
 
 ul{
 	list-style-type: none;
 }
 
+
+hr{
+	display: inline;
+}
+
 li{
-    height:120px;
-	margin-right: 80px;
-	display: inline;}
+	text-align: center;
+	display: inline;
+	overflow: auto;
+}
 
+li:first-of-type {
+    margin-left: 300px;
+}
 
+li:last-of-type {
+	border: none;
+}
 
 img{
 }
 
 
 a{
+		padding:40px;
+
+	text-align: center;
     
-}
-
-
-
-
-.seperate{
-    padding: 5px;
-    border-right: 1px solid red;
 }

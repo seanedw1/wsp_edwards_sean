@@ -1,0 +1,75 @@
+
+course review:
+
+over the course of this month i have learned a-lot
+of new concepts and css rules such as rem,calc,before,and after.
+many of these new concepts will help me to become a stronger developer
+which i am very grateful for.i really enjoy the fact that you require us
+to develop five components because it forces us as students to develop
+components and think about why markup and css are done the way they are.
+as a result of this i was able to discover one of my weaknesses which is positioning,
+of all the components i built the hardest for me where the components that required me to 
+use positioning as a result i spent the last week working to develop my position skills
+below i  have wrote a list of what i worked on in the final week.
+
+
+component 1/cta
+
+-removed green border
+-added correct font(railway) which i got threw google fonts
+-
+
+component 2/header
+
+-of all the five components i choose this was the most difficult for me i could not get none of the items positioned correctly.
+
+- while i did get the item to sit beside one another in a row i could not get the spacing right.
+
+-
+
+component 3/footer
+
+-updated social media link images
+- fixed spacing on the second nav list
+- fixed
+
+component 4/ad banner
+
+— i had trouble placing the blue ribbon in the corner using rotate but i still continued to work on it
+
+-i did try researching positioning the ribbon and found out that to use transform in css
+each browser has there own set of specific css way to do this , as a result i had to find the correct way to accomplish this for my current browser which is chrome.
+
+-
+
+component 5/blog feed/responsive
+
+- originally i tried to build from scratch but couldn’t get it to work so i found a tutorial that walked me threw the process.
+
+-the tutorial i found accomplished this threw the use of columns but while i was researching this i found out the better way is using rows so that the latest add post would be displayed at the top rather then going where it fit in.
+
+
+- i did attempt to use the row method but could not get it to work
+
+
+
+Feedback:
+
+i think one way the next group of students taking this class could benefit is by setting requirements for each component	for example,one component should use javascript, another should use jQuery , and maybe one which uses an api. i think this will help future student
+grow and help them understand that outside of school their is always room for improvement.
+
+i would also keep the group assignments going as i think there very beneficial. while many
+of the classes i completed at full sail do have group assignments. this was the first group assignment i have done that require us to code together .  i enjoyed working in a team based environment and developing skills that will follow me into my career as a developer. ”there is no i in team”
+
+overall i really enjoyed this class and would like to thank both of you for all the time you spent with me and my peers to become stronger in our chosen career path.
+
+i would also like to thank Edward for pulling me aside and speaking with me your advice will help me improve not only my time management skills but my overall professionalism as well.
+
+sean component library
+
+
+http://seanedw1.github.io/wsp_edwards_sean/index.html
+
+team 2 website
+
+http://kjrohr.github.io/final/index.html
